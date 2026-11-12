@@ -1,0 +1,6 @@
+{
+  "name": "BananaVision AI",
+  "description": "A premium AI image generation studio powered by Google's Gemini 'Nano Banana' series, allowing for high-quality, watermark-free visual creation with advanced controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
