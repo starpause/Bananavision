@@ -1,5 +1,7 @@
 # 🍌 BananaVision AI
 
+<img width="410" height="307" alt="image" src="https://github.com/user-attachments/assets/bfef95f7-feb2-4c8e-8119-2f91f64caf54" />
+
 > A no-code visual workbench for Google Gemini's image generation models—giving creators direct access to every lever, slider, reference steering bucket, and resolution dial without writing code.
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
